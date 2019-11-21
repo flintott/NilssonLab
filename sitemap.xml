@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>http://ernestarenaslab.org/</loc>
+  <loc>http://nilssonlab.github.io/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://ernestarenaslab.org/research/</loc>
+  <loc>http://nilssonlab.github.io/research/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://ernestarenaslab.org/publications/</loc>
+  <loc>http://nilssonlab.github.io/publications/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://ernestarenaslab.org/people/</loc>
+  <loc>http://nilssonlab.github.io/people/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://ernestarenaslab.org/links/</loc>
+  <loc>http://nilssonlab.github.io/links/</loc>
   <changefreq>weekly</changefreq>
 </url>
 </urlset>
