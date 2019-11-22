@@ -13,6 +13,10 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
+  <loc>http://nilssonlab.github.io/NilssonLab/facility/</loc>
+  <changefreq>weekly</changefreq>
+</url>  
+<url>
   <loc>http://nilssonlab.github.io/NilssonLab/people/</loc>
   <changefreq>weekly</changefreq>
 </url>
