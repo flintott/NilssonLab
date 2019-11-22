@@ -67,6 +67,17 @@ header {
   padding-top: 20%;
 }
 
+.jumbotron5 {
+  display: flex;
+  align-items: center;
+  background: url("../img/iss_fac.png");
+  background-size: 75% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #FFF;
+  padding-top: 20%;
+}
+
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
