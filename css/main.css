@@ -41,6 +41,7 @@ header {
   align-items: center;
   background-image: url("../img/banner.png");
   background-size: 100% auto;
+  background-repeat: no-repeat;
   color: #FFF;
   height: 400px;
   text-shadow: 0.5px 0.5px 0.5px #000000;
@@ -50,8 +51,9 @@ header {
   display: flex;
   align-items: center;
   background: url("../img/res.png");
-  background-size: 100% auto;
+  background-size: 80% auto;
   background-repeat: no-repeat;
+  background-position: center;
   color: #FFF;
   padding-top: 20%;
 }
@@ -60,7 +62,7 @@ header {
   display: flex;
   align-items: center;
   background: url("../img/pub.jpg");
-  background-size: 75% auto;
+  background-size: 80% auto;
   background-repeat: no-repeat;
   background-position: center;
   color: #FFF;
