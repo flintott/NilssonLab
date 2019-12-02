@@ -208,3 +208,8 @@ footer li img {
   margin: 0 auto;
   zoom: 1;
 }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
