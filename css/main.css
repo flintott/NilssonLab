@@ -34,25 +34,15 @@ header {
   text-transform: uppercase;
 }
 
-.jumbotron_edit {
+.jumbotron {
   font-family: 'Roboto', sans-serif;
   display: flex;
   align-items: center;
   background-image: url("../img/banner.png");
   background-size: 100% auto;
   background-repeat: no-repeat;
+  background-color: #66829f;
   color: #FFF;
-  height: 400px;
-  text-shadow: 0.5px 0.5px 0.5px #000000;
-}
-
-.jumbotron {
-  font-family: 'Roboto', sans-serif;
-  display: flex;
-  align-items: center;
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  color: #66829f;
   height: 400px;
   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
